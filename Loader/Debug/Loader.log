@@ -1,0 +1,3 @@
+﻿  Loader.cpp
+C:\Users\bergd\source\repos\Loader\Loader\functions.h(55): warning C4715: 'Functions::GetModuleBaseAddress': not all control paths return a value
+  Loader.vcxproj -> C:\Users\bergd\source\repos\Loader\Debug\Loader.exe

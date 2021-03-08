@@ -1,8 +1,0 @@
-﻿  Loader.cpp
-C:\Users\rainb\Desktop\Loader\Loader\Loader.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
-  Generating code
-  60 of 106 functions (56.6%) were compiled, the rest were copied from previous compilation.
-    17 functions were new in current compilation
-    7 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  Loader.vcxproj -> C:\Users\rainb\Desktop\Loader\Release\Loader.exe
